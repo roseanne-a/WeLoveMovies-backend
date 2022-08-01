@@ -1,6 +1,6 @@
 # WeLoveMovies Backend
 
-WeLoveMovies backend was created with Express and CORS.
+WeLoveMovies backend was created with Express and CORS. It allows the user to get a list of movies (and currently showing movies), theaters with the movies showing, reviews, and critics, all in one convenient API.
 
 ## Installation
 
@@ -8,7 +8,7 @@ WeLoveMovies backend was created with Express and CORS.
 npm install
 ```
 
-## Usage
+## API Usage
 
 HTTP Methods allowed
 
